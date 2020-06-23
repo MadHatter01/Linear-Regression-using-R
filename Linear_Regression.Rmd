@@ -1,7 +1,8 @@
 ---
 title: "Does Schooling affect one's Life expectancy?"
 author: "Vaishnavi Rangarajan"
-output: html_document
+output:  rmarkdown::github_document
+
 ---
 
 ```{r setup, include=FALSE}
